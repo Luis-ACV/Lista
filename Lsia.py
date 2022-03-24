@@ -1,0 +1,3 @@
+Asistencia = [ " LA " ]
+
+print(Asistencia)
